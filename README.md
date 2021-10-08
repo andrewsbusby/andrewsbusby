@@ -6,10 +6,6 @@ I am Andrew Busby. I am a full stack web developer and I really enjoy UI/UX Desi
 I also love spending time with my family and watching movies together. 
 
 ### Skills
-![image](https://user-images.githubusercontent.com/64098862/136629099-51ab0a56-874b-4a0e-a4a9-149ea4ebcd79.png)
-![image](https://user-images.githubusercontent.com/64098862/136628568-c053b820-0924-4e06-88d1-11b8378e9134.png)
-![image](https://user-images.githubusercontent.com/64098862/136628609-56c87308-4fcb-4dfa-9813-37c5571bf9ea.png)
-![image](https://user-images.githubusercontent.com/64098862/136628641-8f05952d-0913-4ecc-9776-16d752d32801.png)
-![image](https://user-images.githubusercontent.com/64098862/136628689-ec4f4d62-ed3a-44ae-a95c-1af1a1e35d84.png)
-![image](https://user-images.githubusercontent.com/64098862/136628755-d91761e5-4b75-4066-bbd0-5cf1119d4e32.png)
+![image](https://user-images.githubusercontent.com/64098862/136629266-138681c3-e0b2-4369-af5a-57360cf7ac38.png)
+
 
