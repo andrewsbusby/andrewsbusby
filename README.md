@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**andrewsbusby/andrewsbusby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 I am Andrew Busby. I am a full stack web developer and I really enjoy UI/UX Design. I want to make the internet and websites accessable to as many people as possible. 
 I also love spending time with my family and watching movies together. 
